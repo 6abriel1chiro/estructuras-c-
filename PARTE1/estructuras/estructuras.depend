@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600738252 source:c:\users\gabriel ichiro\desktop\estructuras\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
